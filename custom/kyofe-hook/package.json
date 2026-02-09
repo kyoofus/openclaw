@@ -1,0 +1,14 @@
+{
+  "name": "kyofe-hook",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^25.2.1"
+  },
+  "openclaw": {
+    "hooks": [
+      "."
+    ]
+  }
+}

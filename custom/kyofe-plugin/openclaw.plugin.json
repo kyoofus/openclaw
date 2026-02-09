@@ -1,0 +1,11 @@
+{
+  "id": "kyofe-plugin",
+  "name": "Kyofe Plugin",
+  "description": "A simple Hello World plugin for OpenClaw",
+  "version": "1.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
