@@ -1,10 +1,8 @@
 import type { Command } from "commander";
 import { Type } from "@sinclair/typebox";
+// import { registerPluginHooksFromDir } from "openclaw/plugin-sdk";
 import type { OpenClawPluginApi } from "../../src/plugins/types.js";
-// import { registerPluginHooksFromDir } from "openclaw/plugin-sdk";
 import { registerPluginHooksFromDir } from "../../src/hooks/plugin-hooks.js";
-
-// import { registerPluginHooksFromDir } from "openclaw/plugin-sdk";
 
 export default function register(api: OpenClawPluginApi) {
   // Register hooks from the hooks directory

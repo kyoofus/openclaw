@@ -3,11 +3,8 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {},
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@types/node": "^25.2.1",
     "openclaw": "workspace:*"
   },
   "openclaw": {
