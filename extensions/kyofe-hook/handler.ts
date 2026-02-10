@@ -2,6 +2,8 @@ import * as fs from "fs";
 import * as os from "os";
 import * as path from "path";
 import type { HookHandler } from "../../src/hooks/hooks.js";
+// import type { HookHandler } from "openclaw";
+
 
 /**
  * 키워드 로거 훅 (Command Event 기반)
